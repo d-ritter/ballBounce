@@ -1,3 +1,5 @@
+// Adapted from Codecademy https://www.youtube.com/watch?v=fqkdBC7Ki00
+
 let ballCount = 100;
 let x = [];
 let y = [];
